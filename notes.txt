@@ -1,0 +1,7 @@
+Libraries that we'll use
+lumibot => easy algo trading framework
+alpaca-trade-api-python => get news and place trades to broker
+datetime => mainly for date formatting
+timedelta => calculating date differences
+torch => pytorch framework for using AI/ML  
+transformer => load up finance deep learning model
