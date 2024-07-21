@@ -5,3 +5,4 @@ datetime => mainly for date formatting
 timedelta => calculating date differences
 torch => pytorch framework for using AI/ML  
 transformer => load up finance deep learning model
+<!-- The only issue is that if we got an exisiting sell order and the sentiment goes positive then we need to sort of cut the other decision out. -->

@@ -1,0 +1,8 @@
+2024-07-16 21:23:33,690: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-07-16 21:23:37,121: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-07-16 21:23:37,126: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-07-16 21:23:37,130: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-07-16 21:23:37,131: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-07-16 21:23:37,135: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-07-16 21:23:37[0m
+2024-07-16 21:23:37,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-07-16 21:23:38,500: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
